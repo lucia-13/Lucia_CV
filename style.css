@@ -1,0 +1,22 @@
+* {
+    font-family: 'Nunito Sans';
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0 auto;
+    padding: 3px;
+    background-color:#fff;
+  }
+  .intro {
+    font-size: 50px;
+    font-weight: 700;
+    color: #a5a5a5;
+  }  
+  .About {
+    border: solid 1px #4c7ef3;
+    font-size: 24px;
+    font-weight: 700;
+    color: #4c7ef3;
+    cursor: pointer;
+  }
