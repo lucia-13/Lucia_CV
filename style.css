@@ -2,6 +2,10 @@
     font-family: 'Nunito Sans';
     box-sizing: border-box;
   }
+  header {
+    display: flex;
+    justify-content: center
+  }
   
   body {
     margin: 0 auto;
@@ -19,4 +23,7 @@
     font-weight: 700;
     color: #4c7ef3;
     cursor: pointer;
+  }
+  .list_skills{
+    list-style-type: "\1F44D"; // thumbs up sign
   }
