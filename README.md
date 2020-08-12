@@ -1,5 +1,5 @@
 # Cover Letter Website
-This is a React based website for personal branding
+This is a  website for personal branding
 
 ## Description
 
